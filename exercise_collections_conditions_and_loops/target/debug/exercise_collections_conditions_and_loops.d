@@ -1,0 +1,1 @@
+D:\Google\GoogleDrive\VScode\Rust\rust-learning-path\exercise_collections_conditions_and_loops\target\debug\exercise_collections_conditions_and_loops.exe: D:\Google\GoogleDrive\VScode\Rust\rust-learning-path\exercise_collections_conditions_and_loops\src\main.rs
